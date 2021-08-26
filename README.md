@@ -2,3 +2,4 @@
 **1. calculator.py** : 계산기에 있는 기능들을 제공하는 모듈
 - add, subtract 등
 - 추가 기능은 추후 추가 예정
+- 아이디어 있으면 alsxor@hanmail.net 송부 바람
